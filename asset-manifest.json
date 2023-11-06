@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/static/js/main.b9598f6c.js",
+    "static/js/24.30798013.chunk.js": "/static/js/24.30798013.chunk.js",
+    "static/media/hello-world.png": "/static/media/hello-world.8481cb11524c4404b02f.png",
+    "static/media/base-bg.png": "/static/media/base-bg.3375027b740c6c4a664a.png",
+    "static/media/MehrdadKheirmand-cv.pdf": "/static/media/MehrdadKheirmand-cv.c52a2772c8cb606066bb.pdf",
+    "static/media/mehrdad-kheirmand-pic.JPG": "/static/media/mehrdad-kheirmand-pic.143928a78bed5cd20284.JPG",
+    "static/media/rsz_mehrdad-kheirmand-logo-1.png": "/static/media/rsz_mehrdad-kheirmand-logo-1.7aec7a3edeb58dec3804.png",
+    "static/media/mehrdad-kheirmand-logo.svg": "/static/media/mehrdad-kheirmand-logo.a7b0f20dccb40e6dcdb620c3ce169ffb.svg",
+    "static/media/bruce-mars.jpg": "/static/media/bruce-mars.8a606c4a6dab54c9ceff.jpg",
+    "static/media/mehrdad-kheirmand-logo-1.png": "/static/media/mehrdad-kheirmand-logo-1.0618de316aac55ea5240.png",
+    "static/media/mehrdad-kheirmand-logo-3.png": "/static/media/mehrdad-kheirmand-logo-3.d354646d4ec3cbbf58c4.png",
+    "static/media/mehrdad-kheirmand-logo-2.png": "/static/media/mehrdad-kheirmand-logo-2.e785defc61510d9f1651.png",
+    "static/media/termux-1.png": "/static/media/termux-1.8344f40bb895dcdb93e1.png",
+    "index.html": "/index.html",
+    "main.b9598f6c.js.map": "/static/js/main.b9598f6c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b9598f6c.js"
+  ]
+}
